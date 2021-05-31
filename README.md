@@ -1,12 +1,17 @@
 # imgprocess
 - Annotation graphique.
 
+
 FONCTIONNALITES : 
 * Dessiner des rectangles
 * Dessiner des points reliés par des lignes
 
+
+
 ENVIRONNEMENT DE TRAVAIL : 
 * Installer Pycharm 
+
+
 
 PYCHARM :
 * En terminal , exécuter le code ci-dessous : 
