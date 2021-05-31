@@ -1,13 +1,13 @@
 # imgprocess
 - Annotation graphique.
 
-
+<br>
 FONCTIONNALITES : 
 * Dessiner des rectangles
 * Dessiner des points reliés par des lignes
 
 
-
+<br>
 ENVIRONNEMENT DE TRAVAIL : 
 * Installer Pycharm 
 
